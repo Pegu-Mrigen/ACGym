@@ -1,7 +1,7 @@
 import ActionButton from "@/shared/ActionButton";
 import HText from "@/shared/HText";
 import { BenefitType, SelectedPage } from "@/shared/types";
-import BenefitsPageGraphic from "@/assets/BenefitsPageGraphic.png";
+import BenefitsPageGraphic from "@/assets/15.png";
 import {
   AcademicCapIcon,
   HomeModernIcon,
@@ -86,7 +86,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
             />
           ))}
         </motion.div>
-        <div className="mt-16 items-center justify-between gap-20 md:mt-28 flex">
+        <div className="mt-16 items-center justify-between gap-20 md:mt-28 md:flex">
           <img
             className="mx-auto"
             src={BenefitsPageGraphic}

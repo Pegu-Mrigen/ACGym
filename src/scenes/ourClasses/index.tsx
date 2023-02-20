@@ -1,9 +1,9 @@
-import image1 from "@/assets/image1.png";
-import image2 from "@/assets/image2.png";
-import image3 from "@/assets/image3.png";
-import image4 from "@/assets/image4.png";
-import image5 from "@/assets/image5.png";
-import image6 from "@/assets/image6.png";
+import image1 from "@/assets/1.jpg";
+import image2 from "@/assets/2.jpg";
+import image3 from "@/assets/3.jpg";
+import image4 from "@/assets/4.jpg";
+import image5 from "@/assets/6.jpg";
+import image6 from "@/assets/8.jpg";
 import HText from "@/shared/HText";
 import { ClassType, SelectedPage } from "@/shared/types";
 import { motion } from "framer-motion";
